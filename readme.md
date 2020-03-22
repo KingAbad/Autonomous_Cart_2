@@ -1,3 +1,5 @@
+Project - Atonomous cart
+
 Het doel van het project is om van een alledaagse golf cart te automatiseren, en deze een autonome golf cart te maken dat binnen de Corda campus rondrijd . 
 
 De bedoeling is dat er op de golf cart een touchscreen gaat zijn met een user interface. Op deze user interface komt er een map van de Corda campus met alle mogelijke gebouwen. De bestuurder kan via de touchscreen feature kiezen naar welk gebouw hij of zij zich wil verplaatsen. Er gaan ook smart LED’s zijn die de bestuurder gaan informeren over de obstakels die zich op de rijbaan bevinden. Bij een atonomous project hoort zeker ook een failsafe wat het mogelijk gaat maken om de controle terug aan de bestuurder te bezorgen.
