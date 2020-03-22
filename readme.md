@@ -10,4 +10,4 @@ Het opsporen van obstakels gaat gebeuren via sensoren en camera’s. Deze elektr
 
 De verkregen data moet door de Jetson Nano behandelt, en doorgestuurd worden als commando’s aan de PLC. De PLC moet ook kunnen communiceren met de Jetson Nano. Het moet kunnen bevestigen dat een bepaald commando is ontvangen en uitgevoerd aan de Jetson Nano. De communicatie tussen deze twee gebeurt via ethercat.
 
-Hier komen alle nodige bestanden en code
+Hier komen alle nodige bestanden en code.
