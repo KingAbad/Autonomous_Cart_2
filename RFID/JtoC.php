@@ -4,8 +4,11 @@
 <style type="text/css">
 
 table {
-margin: 10px;
+margin-left: auto;
+margin-right: auto;  
 border-spacing: 3px;
+
+
 }
 body{background-color:powderblue;}
 td {
