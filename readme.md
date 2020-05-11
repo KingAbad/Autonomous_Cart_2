@@ -17,6 +17,10 @@ Website                 directory containing all the html code and php scripts f
 Presentaties            directory containing all of the powerpoint presentations given during this project
 ```
 
+## All of the projects made by our group
+<details>
+<summary>Click to see all projects</summary> 
+  
 ## RFID project with Arduino
 
 <details>
@@ -64,4 +68,7 @@ Presentaties            directory containing all of the powerpoint presentations
 <details>
 <summary>Click to expand the Website details</summary> 
   
+</details> 
+
+
 </details> 
