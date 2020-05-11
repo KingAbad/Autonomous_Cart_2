@@ -35,18 +35,19 @@ Presentaties            directory containing all of the powerpoint presentations
 * RGB led
 * Breadboard
 * Arduino IDE
+* Arduino
 
 **Step by step guide**
-* Open the Arduino IDE 
+* Open the Arduino IDE. 
 * Plug in your Arduino Nano (used by me) in your laptop.
-* Start building your circuit (open my schematic)
+* Start making your circuit (open my schematic).
 * Copy and paste the my .ino code in your IDE.
-* Look if you have the right board selected
-* Also select the right serial COM port ypur Arduino is connected to
-* Upload the code into your Arduino and it should work
+* Look if you have the right board selected.
+* Also select the right serial COM port your Arduino is connected to.
+* Upload the code into your Arduino and it should work.
 
-**Note**
-You have to change the UID of mine tag to the UID of your tag.
+**Note:**
+ You have to change the UID of mine tag to the UID of your tag.
 To know this UID open one of the simple RFID-RC522 reading examples in the Arduino IDE.
 </details>  
 
@@ -54,7 +55,30 @@ To know this UID open one of the simple RFID-RC522 reading examples in the Ardui
 
 <details>
 <summary>Click to expand the RFID project with PSoC4</summary> 
-  
+ 
+ **Poject requirements**
+* Jumper wires
+* RFID-RC522
+* RFID tags
+* IIC LCD-Display
+* Buzzer module
+* RGB led
+* Breadboard
+* PSoC Creator 4.2
+* PSoC 4
+
+**Step by step guide**
+* Open the PSoC Creator 4.2 download available at the official cypress site. 
+* Import my project in the ide.
+* If you are using a different PSoC you might have to change the target device and pin settings.
+* Plug in your PSoC 4 (used by me) in your laptop.
+* Start making your circuit.
+* Clean and build the project once.
+* Upload the code into your PSoC 4 and it should work.
+
+**Note:**
+ This code is made to work with any **RFID-tag** it just detects wheter any tag is detected by the reader or not.
+ With some minimal chnages to the code you can make it work for any specific tag.
 </details> 
 
 ## RFID project with STM
