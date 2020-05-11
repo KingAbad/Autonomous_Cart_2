@@ -85,7 +85,25 @@ To know this UID open one of the simple RFID-RC522 reading examples in the Ardui
 
 <details>
 <summary>Click to expand the RFID project with STM</summary> 
-  
+ 
+ **Poject requirements**
+* Jumper wires
+* RFID-RC522
+* RFID tags
+* IIC LCD-Display
+* Breadboard
+* STMCubeIDE 1.3.0
+* STM32xxxx µController
+
+**Step by step guide**
+* Open the  STMCubeIDE 1.3.0 download available at the official st.com site. 
+* Import my project in the ide.
+* If you are using a different STM you might have to change the target device and pin settings.
+* Plug in your PSoC 4 (used by me) in your laptop.
+* Start making your circuit.
+* Clean and build the project once.
+* Upload the code into your PSoC 4 and it should work.
+
 </details> 
 
 ## TCP-IP communication between Jetson and PLC
