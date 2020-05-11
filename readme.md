@@ -25,7 +25,29 @@ Presentaties            directory containing all of the powerpoint presentations
 
 <details>
 <summary>Click to expand the RFID project with Arduino</summary> 
-  
+
+**Poject requirements**
+* Jumper wires
+* RFID-RC522
+* RFID tags
+* IIC LCD-Display
+* Buzzer module
+* RGB led
+* Breadboard
+* Arduino IDE
+
+**Step by step guide**
+* Open the Arduino IDE 
+* Plug in your Arduino Nano (used by me) in your laptop.
+* Start building your circuit (open my schematic)
+* Copy and paste the my .ino code in your IDE.
+* Look if you have the right board selected
+* Also select the right serial COM port ypur Arduino is connected to
+* Upload the code into your Arduino and it should work
+
+**Note**
+You have to change the UID of mine tag to the UID of your tag.
+To know this UID open one of the simple RFID-RC522 reading examples in the Arduino IDE.
 </details>  
 
 ## RFID project with PSoC4
@@ -59,7 +81,7 @@ Presentaties            directory containing all of the powerpoint presentations
 ## Data visualisation
 
 <details>
-<summary>Click to expand the Data visualisation proejct</summary> 
+<summary>Click to expand the Data visualisation project</summary> 
   
 </details> 
 
