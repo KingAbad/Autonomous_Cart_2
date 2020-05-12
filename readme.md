@@ -124,7 +124,7 @@ app on your smartphone it should work if your device supprots NFC.
 
 **Step by step guide**
 * Open the Twincat XAE or open it in Visual Studio.
-* import the Twincat [server program](KingAbad/Autonomous_Cart_2/TCP_IP_JETSON_PLC/TwinCAT_Program/TCP_Server) in your solution.
+* import the Twincat [server program](https://github.com/KingAbad/Autonomous_Cart_2/tree/master/TCP_IP_JETSON_PL/TwinCAT_Program/TCP_Server) in your solution.
 * Go on the Jetson Nano terminal and install python3.
 * First run the PLC server 
 * now run the [client program](Autonomous_Cart_2/TCP_IP_JETSON_PLC/tcp_client.py).
