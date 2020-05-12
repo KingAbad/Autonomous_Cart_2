@@ -18,9 +18,9 @@ Presentaties            directory containing all of the powerpoint presentations
 ```
 
 ## All of the projects made by our group
-<details> Click to see all projects
+<details> 
  
-<summary></summary> 
+<summary>Click to see all projects</summary>
   
 ## RFID project with Arduino
 
@@ -108,7 +108,8 @@ To know this UID open one of the simple RFID-RC522 reading examples in the Ardui
 **Note:**
  You have to change the UID of mine tag to the UID of your tag.
 To know this UID open one of the simple RFID-RC522 reading examples in the Arduino IDE.
-And use it afterwards in the code.
+And use it afterwards in the code. If you don't have the Arduino IDE then donwload an RFID reader
+app on your smartphone it should work if your device supprots NFC.
 </details> 
 
 ## TCP-IP communication between Jetson and PLC
@@ -117,13 +118,23 @@ And use it afterwards in the code.
 <summary>Click to expand the TCP-IP communication between Jetson and PLCs</summary> 
 
  **Poject requirements**
-* Jumper wires
-* RFID-RC522
-* RFID tags
-* IIC LCD-Display
-* Breadboard
-* STMCubeIDE 1.3.0
-* STM32xxxx µController
+* Jetson Nano
+* Jetson Nano display
+* Twincat 3 V4024.7
+
+**Step by step guide**
+* Open the Twincat XAE or open it in Visual Studio.
+* import the Twincat [server program](TCP_Server) in your solution.
+* Go on the Jetson Nano terminal and install python3.
+* First run the PLC server 
+* now run the [client program](tcp_client.py).
+* Now you should be able to see incoming messages in the server that you sent with the client.
+
+**Note:**
+ TwinCAT Error and Error ID are stored in the variable 'err' and 'errid' respectively. Some common errors found:
+  * 8002 : Variable 'hSocket' is not populated with the correct address. The sequence is for the TwinCAT to call FB_SocketListen, the Python client to connect, and TwinCAT calls the FB_SocketAccept after that. This will populate the variable 'hSocket'. If FB_SocketAccept is called before the Python client trying to connect, it will throw 8002 error.
+ * 8003 : The port is already opened. Reset Cold the TwinCAT program and Run again.
+ * 6 : I don't know. Seems like there's something wrong with the installation of TF6310. Uninstall, reinstall, make sure that     TcpIpServer.exe is running in your Task Manager processes.
 
 </details> 
 
