@@ -78,7 +78,7 @@ To know this UID open one of the simple RFID-RC522 reading examples in the Ardui
 
 **Note:**
  This code is made to work with any **RFID-tag** it just detects wheter any tag is detected by the reader or not.
- With some minimal chnages to the code you can make it work for any specific tag.
+ With some minimal changes to the code you can make it work for a certain specific tag.
 </details> 
 
 ## RFID project with STM
@@ -97,20 +97,33 @@ To know this UID open one of the simple RFID-RC522 reading examples in the Ardui
 
 **Step by step guide**
 * Open the  STMCubeIDE 1.3.0 download available at the official st.com site. 
-* Import my project in the ide.
-* If you are using a different STM you might have to change the target device and pin settings.
-* Plug in your PSoC 4 (used by me) in your laptop.
+* Import my project in the IDE.
+* If you are using a different STM you might have to change device with the board selector.
+* Plug in your STMµController into your laptop.
 * Start making your circuit.
 * Clean and build the project once.
-* Upload the code into your PSoC 4 and it should work.
+* Upload the code into your STMµContoller and it should work.
 
+**Note:**
+ You have to change the UID of mine tag to the UID of your tag.
+To know this UID open one of the simple RFID-RC522 reading examples in the Arduino IDE.
+And use it afterwards in the code.
 </details> 
 
 ## TCP-IP communication between Jetson and PLC
 
 <details>
 <summary>Click to expand the TCP-IP communication between Jetson and PLCs</summary> 
-  
+
+ **Poject requirements**
+* Jumper wires
+* RFID-RC522
+* RFID tags
+* IIC LCD-Display
+* Breadboard
+* STMCubeIDE 1.3.0
+* STM32xxxx µController
+
 </details> 
 
 ## PCB design using Altium
