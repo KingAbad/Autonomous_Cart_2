@@ -18,8 +18,8 @@ Presentaties            directory containing all of the powerpoint presentations
 ```
 
 ## All of the projects made by our group
-<details>
-  Click to see all projects
+<details> Click to see all projects
+ 
 <summary></summary> 
   
 ## RFID project with Arduino
