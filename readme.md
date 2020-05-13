@@ -238,10 +238,10 @@ app on your smartphone it should work if your device supprots NFC.
 
 ## Our team
 
-* *Frederik Vreys*    - Lecturer - [LinkedIn](https://www.linkedin.com/in/frederik-vreys-b42214aa/?originalSubdomain=be/)
-* *Abad Sethi*        - Student  - [LinkedIn](https://www.linkedin.com/in/abad-sethi-83246a170/)
-* *Kazim Bozca*       - Student 
-* Metehan Altintas*   - Student 
-* Ali Alabdulwahhab*  - Student 
+* **Frederik Vreys**    - Lecturer - [LinkedIn](https://www.linkedin.com/in/frederik-vreys-b42214aa/?originalSubdomain=be/)
+* **Abad Sethi**        - Student  - [LinkedIn](https://www.linkedin.com/in/abad-sethi-83246a170/)
+* **Kazim Bozca**       - Student 
+* **Metehan Altintas**   - Student 
+* **Ali Alabdulwahhab**  - Student 
 
 <p align="left"><img src="./readme_Images/pxl.png"></p>
