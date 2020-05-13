@@ -228,8 +228,8 @@ app on your smartphone it should work if your device supprots NFC.
 ## Built With
 
 * [Arduino IDE](https://www.arduino.cc/en/Main/Software/)      - Programming environment used
-* PSoC Creator 4.2 - Programming environment used
-* STMCubeIDE 1.3.0 - Programming environment used
+* [PSoC Creator 4.2](https://www.cypress.com/products/psoc-creator-integrated-design-environment-ide/) - Programming environment used
+* [STMCubeIDE 1.3.0](https://www.st.com/en/development-tools/stm32cubeide.html/) - Programming environment used
 > See server/requirements.txt for a full list of used python modules to run the server.
 * [Heroku](https://www.heroku.com/home) - The deployment server
 * [SimpleLink Wi-Fi CC3200 LaunchPad](http://www.ti.com/tool/CC3200-LAUNCHXL) - The development board used
