@@ -227,10 +227,21 @@ app on your smartphone it should work if your device supprots NFC.
 
 ## Built With
 
-* [Arduino IDE](https://www.arduino.cc/en/Main/Software/)         - Programming environment used
-* [PSoC Creator 4.2](https://www.cypress.com/products/psoc-creator-integrated-design-environment-ide/)  - Programming environment used
-* [STMCubeIDE 1.3.0](https://www.st.com/en/development-tools/stm32cubeide.html/) - Programming environment used
-> See server/requirements.txt for a full list of used python modules to run the server.
-* [Heroku](https://www.heroku.com/home) - The deployment server
-* [SimpleLink Wi-Fi CC3200 LaunchPad](http://www.ti.com/tool/CC3200-LAUNCHXL) - The development board used
+* [Arduino IDE](https://www.arduino.cc/en/Main/Software/)       - Programming environment used for the Arduino
+* [PSoC Creator 4.2](https://www.cypress.com/products/psoc-creator-integrated-design-environment-ide/)  - Programming environment used for the PSoC 4
+* [STMCubeIDE 1.3.0](https://www.st.com/en/development-tools/stm32cubeide.html/) - Programming environment used for the STMµController
+* [Twincat](https://www.beckhoff.com/english.asp?download/tc3-downloads.htm) - Programming environment used for the PLC server
+* [Notepad++](https://notepad-plus-plus.org/downloads/) -  Programming environment used for the website
+* [Python](https://www.python.org/) - The programming language used for the client 
+* [XAMPP](https://www.apachefriends.org/download.html/) - The localhost server program
+* [PHPmyAdmin](https://www.phpmyadmin.net/) - The database used
 
+## Team
+
+* *Frederik Vreys*    - Lecturer - [LinkedIn](https://www.linkedin.com/in/frederik-vreys-b42214aa/?originalSubdomain=be/)
+* *Abad Sethi*        - Student  - [LinkedIn](https://www.linkedin.com/in/abad-sethi-83246a170/)
+* *Kazim Bozca*       - Student 
+* Metehan Altintas*   - Student 
+* Ali Alabdulwahhab*  - Student 
+
+<p align="left"><img src="./misc/pxl.png"></p>
