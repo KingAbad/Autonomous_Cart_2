@@ -223,6 +223,14 @@ app on your smartphone it should work if your device supprots NFC.
  Edit the server.php file according to your database and table name. Otherwise it won't work
   
 </details> 
-
-
 </details> 
+
+## Built With
+
+* [Arduino IDE](https://www.arduino.cc/en/Main/Software/)      - Programming environment used
+* PSoC Creator 4.2 - Programming environment used
+* STMCubeIDE 1.3.0 - Programming environment used
+> See server/requirements.txt for a full list of used python modules to run the server.
+* [Heroku](https://www.heroku.com/home) - The deployment server
+* [SimpleLink Wi-Fi CC3200 LaunchPad](http://www.ti.com/tool/CC3200-LAUNCHXL) - The development board used
+
