@@ -174,6 +174,8 @@ app on your smartphone it should work if your device supprots NFC.
 <details>
 <summary>Click to expand the Data visualisation project</summary> 
   
+  <p align="center"><img src="./readme_Images/DATA_VISU.PNG"></p>
+  
  **Poject requirements**
 * Notepad++
 * XAMPP
@@ -195,6 +197,8 @@ app on your smartphone it should work if your device supprots NFC.
 
 <details>
 <summary>Click to expand the Website details</summary> 
+ 
+  <p align="center"><img src="./readme_Images/site_prev.png"></p>
  
  **Poject requirements**
 * Notepad++
