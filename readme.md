@@ -26,6 +26,8 @@ Presentaties            directory containing all of the powerpoint presentations
 
 <details>
 <summary>Click to expand the RFID project with Arduino</summary> 
+ 
+ <p align="center"><img src="./readme_Images/ARDUINO_VERIFICATION_DEMO.jpeg"></p>
 
 **Poject requirements**
 * Jumper wires
@@ -57,6 +59,8 @@ To know this UID open one of the simple RFID-RC522 reading examples in the Ardui
 <details>
 <summary>Click to expand the RFID project with PSoC4</summary> 
  
+  <p align="center"><img src="./readme_Images/PSOC_VERIFICATION_DEMO.jpeg"></p>
+  
  **Poject requirements**
 * Jumper wires
 * RFID-RC522
