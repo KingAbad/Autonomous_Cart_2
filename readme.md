@@ -244,4 +244,4 @@ app on your smartphone it should work if your device supprots NFC.
 * Metehan Altintas*   - Student 
 * Ali Alabdulwahhab*  - Student 
 
-<p align="left"><img src=".readme_Images.png"></p>
+<p align="left"><img src=".readme_Images.png/pxl.png"></p>
