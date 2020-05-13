@@ -236,7 +236,7 @@ app on your smartphone it should work if your device supprots NFC.
 * [XAMPP](https://www.apachefriends.org/download.html/) - The localhost server program
 * [PHPmyAdmin](https://www.phpmyadmin.net/) - The database used
 
-## Team
+## Our team
 
 * *Frederik Vreys*    - Lecturer - [LinkedIn](https://www.linkedin.com/in/frederik-vreys-b42214aa/?originalSubdomain=be/)
 * *Abad Sethi*        - Student  - [LinkedIn](https://www.linkedin.com/in/abad-sethi-83246a170/)
@@ -244,4 +244,4 @@ app on your smartphone it should work if your device supprots NFC.
 * Metehan Altintas*   - Student 
 * Ali Alabdulwahhab*  - Student 
 
-<p align="left"><img src="./misc/pxl.png"></p>
+<p align="left"><img src=".readme_Images.png"></p>
