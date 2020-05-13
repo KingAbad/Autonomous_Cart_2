@@ -124,10 +124,10 @@ app on your smartphone it should work if your device supprots NFC.
 
 **Step by step guide**
 * Open the Twincat XAE or open it in Visual Studio.
-* import the Twincat [server program](https://github.com/KingAbad/Autonomous_Cart_2/tree/master/TCP_IP_JETSON_PL/TwinCAT_Program/TCP_Server/) in your solution.
+* Open the Twincat server project in your solution.
 * Go on the Jetson Nano terminal and install python3.
-* First run the PLC server 
-* now run the [client program](Autonomous_Cart_2/TCP_IP_JETSON_PLC/tcp_client.py).
+* First run the PLC server on Twinact 
+* now run the client program on the Jetson Nano.
 * Now you should be able to see incoming messages in the server that you sent with the client.
 
 **Note:**
@@ -143,6 +143,20 @@ app on your smartphone it should work if your device supprots NFC.
 <details>
 <summary>Click to read details about the PCB design using Altium</summary> 
   
+ **Poject requirements**
+* Altium software
+* Altium license
+* Knowledge of PCB-designing
+
+**Step by step guide**
+* Open Altium designer.
+* Download the pcb files from this GitHub.
+* Import them in your environment.
+* Now you should see the PCB that we made.
+
+**Note:**
+ If you make any changes make to the PCB design make sure to have it checked by a professional.
+  
 </details> 
 
 ## Data visualisation
@@ -150,12 +164,49 @@ app on your smartphone it should work if your device supprots NFC.
 <details>
 <summary>Click to expand the Data visualisation project</summary> 
   
+ **Poject requirements**
+* Notepad++
+* XAMPP
+* A webbrowser
+
+**Step by step guide**
+* Download all the files under the Data_Visualisation folder.
+* Save all of the files in one folder.
+* Download XAMPP from the official website.
+* Open XAMPP and start Apache and MySQL.
+* Now open the JtoC.php file on localhost.
+* Now you should be able to see a table on a webpage.
+
+**Note:**
+ All the files must be int your XAMPP/htdocs/ directory in order to work on localhost.
 </details> 
 
 ## Website
 
 <details>
 <summary>Click to expand the Website details</summary> 
+ 
+ **Poject requirements**
+* Notepad++
+* PHPmyAdmin account
+* XAMPP
+* A webbrowser
+
+**Step by step guide**
+* Download all the files under the Website folder.
+* Save all of the files in one folder.
+* Download XAMPP from the official website.
+* Open XAMPP and start Apache and MySQL.
+* Open this link http://localhost/phpmyadmin.
+* Make a new database and table
+* Now open the register.php file on localhost.
+* Now you should be able to see the page where users can register.
+* All of the users are saved in the PHPmyAdmin database.
+* Once logged in you can see the main page.
+
+
+**Note:**
+ Edit the server.php file according to your database and table name. Otherwise it won't work
   
 </details> 
 
