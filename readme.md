@@ -91,6 +91,8 @@ To know this UID open one of the simple RFID-RC522 reading examples in the Ardui
 <details>
 <summary>Click to expand the RFID project with STM</summary> 
  
+  <p align="center"><img src="./readme_Images/STM_VERIFICATION_DEMO.jpeg"></p>
+ 
  **Poject requirements**
 * Jumper wires
 * RFID-RC522
@@ -121,6 +123,8 @@ app on your smartphone it should work if your device supprots NFC.
 <details>
 <summary>Click to expand the TCP-IP communication between Jetson and PLCs</summary> 
 
+ <p align="center"><img src="./readme_Images/tcp_ip_Jetson_PLC.png"></p>
+ 
  **Poject requirements**
 * Jetson Nano
 * Jetson Nano display
@@ -146,6 +150,8 @@ app on your smartphone it should work if your device supprots NFC.
 
 <details>
 <summary>Click to read details about the PCB design using Altium</summary> 
+  
+  <p align="center"><img src="./readme_Images/Pcb_Designs.png"></p>
   
  **Poject requirements**
 * Altium software
