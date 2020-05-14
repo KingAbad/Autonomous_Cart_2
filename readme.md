@@ -30,7 +30,7 @@ Presentaties                   directory containing all of the powerpoint presen
  
  <p align="center"><img src="./readme_Images/ARDUINO_VERIFICATION_DEMO.jpeg"></p>
 
-**Poject requirements**
+**Project requirements**
 * Jumper wires
 * RFID-RC522
 * RFID tags
@@ -62,7 +62,7 @@ To know this UID open one of the simple RFID-RC522 reading examples in the Ardui
  
   <p align="center"><img src="./readme_Images/PSOC_VERIFICATION_DEMO.jpeg"></p>
   
- **Poject requirements**
+ **Project requirements**
 * Jumper wires
 * RFID-RC522
 * RFID tags
@@ -94,7 +94,7 @@ To know this UID open one of the simple RFID-RC522 reading examples in the Ardui
  
   <p align="center"><img src="./readme_Images/STM_VERIFICATION_DEMO.jpeg"></p>
  
- **Poject requirements**
+ **Project requirements**
 * Jumper wires
 * RFID-RC522
 * RFID tags
@@ -126,7 +126,7 @@ app on your smartphone it should work if your device supprots NFC.
  
   <p align="center"><img src="./readme_Images/Distance_Measurement_PSOC4.png"></p>
  
- **Poject requirements**
+ **Project requirements**
 * Jumper wires
 * HC-SR04
 * PSoC 4
@@ -156,7 +156,7 @@ app on your smartphone it should work if your device supprots NFC.
 
  <p align="center"><img src="./readme_Images/tcp_ip_Jetson_PLC.png"></p>
  
- **Poject requirements**
+ **Project requirements**
 * Jetson Nano
 * Jetson Nano display
 * Twincat 3 V4024.7
@@ -184,7 +184,7 @@ app on your smartphone it should work if your device supprots NFC.
   
   <p align="center"><img src="./readme_Images/Pcb_Designs.png"></p>
   
- **Poject requirements**
+ **Project requirements**
 * Altium software
 * Altium license
 * Knowledge of PCB-designing
@@ -207,7 +207,7 @@ app on your smartphone it should work if your device supprots NFC.
   
   <p align="center"><img src="./readme_Images/DATA_VISU.PNG"></p>
   
- **Poject requirements**
+ **Project requirements**
 * Texteditor
 * XAMPP
 * A webbrowser
@@ -231,7 +231,7 @@ app on your smartphone it should work if your device supprots NFC.
  
   <p align="center"><img src="./readme_Images/site_prev.png"></p>
  
- **Poject requirements**
+ **Project requirements**
 * Texteditor
 * PHPmyAdmin account
 * XAMPP
