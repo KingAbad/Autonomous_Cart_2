@@ -6,15 +6,16 @@ Autonomous cart was one of the 3 main projects of the subject **Project Reasearc
 ## Source Roadmap
 
 ```
-RFID_Project_Arduino    directory containing RFID system with Arduino files
-RFID_Project_PSoC4      directory containing RFID system with PSoC4 files
-RFID_Project_STM        directory containing RFID system with STM files
-TCP_IP_JETSON_PLC       directory containing Server (twincat) and Client (python) code
-PCB_ACTUAL              directory containing all of the Altium designs for the main pcb
-PCB_RELAIS7-4           directory containing all of the Altium designs for the relais pcb
-Data_Visualisation      directory containing the script to show csv content on webpage
-Website                 directory containing all the html code and php scripts for the website
-Presentaties            directory containing all of the powerpoint presentations given during this project
+RFID_Project_Arduino           directory containing RFID system with Arduino files
+RFID_Project_PSoC4             directory containing RFID system with PSoC4 files
+RFID_Project_STM               directory containing RFID system with STM files
+TCP_IP_JETSON_PLC              directory containing Server (twincat) and Client (python) code
+Distance_Measurement_PSOC4     directory containing Distance measurement with PSoC 4 files
+PCB_ACTUAL                     directory containing all of the Altium designs for the main pcb
+PCB_RELAIS7-4                  directory containing all of the Altium designs for the relais pcb
+Data_Visualisation             directory containing the script to show csv content on webpage
+Website                        directory containing all the html code and php scripts for the website
+Presentaties                   directory containing all of the powerpoint presentations given during this project
 ```
 
 ## All of the projects made by our group
@@ -116,6 +117,36 @@ To know this UID open one of the simple RFID-RC522 reading examples in the Ardui
 To know this UID open one of the simple RFID-RC522 reading examples in the Arduino IDE.
 And use it afterwards in the code. If you don't have the Arduino IDE then donwload an RFID reader
 app on your smartphone it should work if your device supprots NFC.
+</details> 
+
+## Distance measurement with PSOC4
+
+<details>
+<summary>Click to expand the RFID project with STM</summary> 
+ 
+  <p align="center"><img src="./readme_Images/Distance_Measurement_PSOC4.png"></p>
+ 
+ **Poject requirements**
+* Jumper wires
+* HC-SR04
+* PSoC 4
+* Breadboard
+* PSoC Creator 4.2
+* Serial monitor (UART)
+* Digital caliper (optional)
+
+**Step by step guide**
+* Open the PSoC Creator 4.2 download available at the official cypress site. 
+* Import my project in the ide.
+* If you are using a different PSoC you might have to change the target device and pin settings.
+* Plug in your PSoC 4 (used by me) in your laptop.
+* Start making your circuit.
+* Clean and build the project once.
+* Upload the code into your PSoC 4 and it should work.
+* Open your UART terminal eg. Tera Term and you should see your incoming output distance there.
+
+**Note:**
+ You can use the caliper to double check if the distance outputted by your ultrasonic sensor is correct or not.
 </details> 
 
 ## TCP-IP communication between Jetson and PLC
