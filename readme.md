@@ -1,6 +1,6 @@
 # Project - Autonomous cart
 
-Autonomous cart was one of the 3 main projects of the subject **Project Reasearch** given by several professors of the university-college **PXL**. The main goal of Autonomous cart was to turn a ordinary golf cart into a fully self-driving campus taxi that takes it passengers to their desired locations. The three main technologies that were needed to make this project a succes were: IOT, AI and Automation technology. As of our task to be the brain of this project it was our main responsibility to the IOT side of this project. And that is also what this repository is about.  
+Autonomous cart was one of the 3 main projects of the subject **Project Reasearch** given by several professors of the university-college **PXL**. The main goal of Autonomous cart was to turn an ordinary golf cart into a fully self-driving campus taxi that takes it passengers to their desired locations. The three main technologies that were needed to make this project a succes were: IOT, AI and Automation technology. As of our task to be the brain of this project it was our main responsibility to the IOT side of this project. And that is also what this repository is about.  
 
 
 ## Source Roadmap
@@ -271,9 +271,9 @@ app on your smartphone it should work if your device supprots NFC.
 
 * **Bart Stukken**     - Scrum master - [LinkedIn](https://www.linkedin.com/in/bart-stukken/)
 * **Frederik Vreys**    - Product owner - [LinkedIn](https://www.linkedin.com/in/frederik-vreys-b42214aa/)
-* **Abad Sethi**        - Developers  - [LinkedIn](https://www.linkedin.com/in/abad-sethi-83246a170/)
-* **Kazim Bozca**       - Developers 
-* **Metehan Altintas**   - Developers 
-* **Ali Alabdulwahhab**  - Developers 
+* **Abad Sethi**        - Developer  - [LinkedIn](https://www.linkedin.com/in/abad-sethi-83246a170/)
+* **Kazim Bozca**       - Developer
+* **Metehan Altintas**   - Developer 
+* **Ali Alabdulwahhab**  - Developer 
 
 <p align="left"><img src="./readme_Images/pxl_logo.png"></p>
