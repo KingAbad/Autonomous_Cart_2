@@ -271,7 +271,7 @@ app on your smartphone it should work if your device supprots NFC.
 
 * **Bart Stukken**     - Scrum master - [LinkedIn](https://www.linkedin.com/in/bart-stukken/)
 * **Frederik Vreys**    - Product owner - [LinkedIn](https://www.linkedin.com/in/frederik-vreys-b42214aa/)
-* **Abad Sethi**        - Developer  - [LinkedIn](https://www.linkedin.com/in/abad-sethi-83246a170/)
+* **Abad Sethi**        - Team leader/Developer  - [LinkedIn](https://www.linkedin.com/in/abad-sethi-83246a170/)
 * **Kazim Bozca**       - Developer
 * **Metehan Altintas**   - Developer 
 * **Ali Alabdulwahhab**  - Developer 
